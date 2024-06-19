@@ -65,12 +65,8 @@ void roman_to_int()
             }
             else ans+=1000;
         }
-//            else if(s[i]=='L') ans+=50;
-//            else if(s[i]=='C') ans+=100;
-//            else if(s[i]=='D') ans+=500;
-//            else if(s[i]=='M') ans+=1000;
-        }
-        cout<<ans<<endl;
+    }
+    cout<<ans<<endl;
 }
 
 int main()
