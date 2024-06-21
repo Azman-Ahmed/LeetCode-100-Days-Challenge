@@ -32,7 +32,6 @@ public:
         vector<int> ans;
         ans.push_back(first);
         ans.push_back(second);
-        cout<<first<<second<<endl;
 
         return ans;
 
